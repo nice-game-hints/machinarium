@@ -1,3 +1,0 @@
----
-title: The Other Lift
----
