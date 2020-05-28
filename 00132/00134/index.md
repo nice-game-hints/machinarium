@@ -16,11 +16,12 @@ That lever at the top of the stairs will call one, and send it through.
 # Hint 5
 However, we're going to need more than that. We're going to need a way to pull that lever from the tracks, and we're also going to need to mount ourselves on some wheels so that we'll glide inside when the cart does come.
 
-# Hint 6
-[How can I make a mine cart stop to get some wheels?][163]
+[How can I pull the lever remotely?](/00132/00134/00148/index.md)
 
-# Hint 7
+
+[How can I make a mine cart stop to get some wheels?](/00132/00134/00163/index.md)
+
+
+# Hint 8
 Once you've put the wheels on the track, sit on them, and pull the lever once more. You will then be pushed inside.
 
-<!-- INTERNAL LINKS -->
-[163]: /00132/00134/00163/index.md

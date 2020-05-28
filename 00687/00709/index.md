@@ -13,8 +13,8 @@ Then you should have noticed the five-in-a-row game played with bolts.
 # Hint 4
 Win that game, and your opponent will get mad and throw your bolts across the room.
 
-# Hint 5
-[How can I beat the robot at his five-in-a-row game?][776]
+[How can I beat the robot at his five-in-a-row game?](/00774/00776/index.md)
+
 
 # Hint 6
 Collect those five bolts and give them to the trumpeter.
@@ -22,5 +22,3 @@ Collect those five bolts and give them to the trumpeter.
 # Hint 7
 He will then be able to play his horn.
 
-<!-- INTERNAL LINKS -->
-[776]: /00774/00776/index.md

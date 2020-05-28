@@ -28,8 +28,8 @@ You can jump off onto the platform at the upper left.
 # Hint 9
 There's another control panel here but you can't open it without the right tool.
 
-# Hint 10
-[Where can I find this tool?][220]
+[Where can I find this tool?](/00193/00195/00220/index.md)
+
 
 # Hint 11
 Use the tool with the control panel and you will discover that it allows you to switch the rotational direction of the pincers.
@@ -43,5 +43,3 @@ This means they will move past the upper-right pipe.
 # Hint 14
 So now, just climb down and repeat the process of pushing the red button, running over to the pincers, and then instead of jumping onto the upper-left platform, jump into the upper-right pipe.
 
-<!-- INTERNAL LINKS -->
-[220]: /00193/00195/00220/index.md

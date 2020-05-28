@@ -7,11 +7,9 @@ You're actually going to need the plant from way back with the musicians for thi
 # Hint 2
 Use it with the empty plant pot at the left, then move the laser to it and power it up using the grid panel (after solving its puzzles).
 
-# Hint 3
-[How do I solve the puzzles on this control panel?][921]
+[How do I solve the puzzles on this control panel?](/00919/00921/index.md)
+
 
 # Hint 4
 Doing so will cause the sunflower to grow, and you can collect some of its seeds by shaking it.
 
-<!-- INTERNAL LINKS -->
-[921]: /00919/00921/index.md

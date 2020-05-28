@@ -19,8 +19,8 @@ Did you get the broom yet?
 # Hint 6
 If not, help the prisoner first.
 
-# Hint 7
-[How can I get a cigarette for the prisoner?][240]
+[How can I get a cigarette for the prisoner?](/00238/00240/index.md)
+
 
 # Hint 8
 Combine the broom and valve, and you can use the resulting item like a manhole key to escape.
@@ -31,5 +31,3 @@ Climb down, and squish yourself, then proceed to the right until you find the ne
 # Hint 10
 Use the broom one more time to get up into the guard's break room.
 
-<!-- INTERNAL LINKS -->
-[240]: /00238/00240/index.md

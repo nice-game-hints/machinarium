@@ -19,11 +19,9 @@ You need a robot cat!
 # Hint 6
 Head to the bridge, you'll find one there.
 
-# Hint 7
-[The Bridge][561]
+[The Bridge](/00561/index.md)
+
 
 # Hint 8
 Place the cat in the pipe, and it will clear the rat out, allowing the musician to make some lovely music.
 
-<!-- INTERNAL LINKS -->
-[561]: /00561/index.md

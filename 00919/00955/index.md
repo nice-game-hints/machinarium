@@ -19,8 +19,8 @@ You need to fix the projector and place the slides from the desk in it.
 # Hint 6
 To fix the projector, first off, you'll need to solve the puzzles with the grid.
 
-# Hint 7
-[How do I solve the puzzles on this control panel?][921]
+[How do I solve the puzzles on this control panel?](/00919/00921/index.md)
+
 
 # Hint 8
 After doing so, you can push the buttons at the bottom of that grid to turn on the laser and the projector.
@@ -52,5 +52,3 @@ On the door panel, light up the lights on the insect's back that correspond to t
 # Hint 17
 This will open the door.
 
-<!-- INTERNAL LINKS -->
-[921]: /00919/00921/index.md

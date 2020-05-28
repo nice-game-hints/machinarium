@@ -7,8 +7,8 @@ First off, you'll need sunflower seeds.
 # Hint 2
 The greenhouse is the place to find those, so if you've not been there yet, do so now.
 
-# Hint 3
-[The Greenhouse][919]
+[The Greenhouse](/00919/index.md)
+
 
 # Hint 4
 Once you have the seeds, and the can the old man gave you to collect the oil in, you are ready to go.
@@ -22,5 +22,3 @@ Now just pull the handle a few times with your mouse to collect the sunflower oi
 # Hint 7
 You can then return to the old man by heading down the pipe next to the guard on this screen, and heading up the stairs as a shortcut back to the fountain.
 
-<!-- INTERNAL LINKS -->
-[919]: /00919/index.md

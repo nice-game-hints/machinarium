@@ -7,8 +7,8 @@ You're going to need three red valves to make this work.
 # Hint 2
 One can be found by getting the help of the wrench-bot, and one, by looking inside the book in the drawer of his cabinet. On the last page you'll find a valve hidden.
 
-# Hint 3
-[How can I convince the wrench-bot to help me?][801]
+[How can I convince the wrench-bot to help me?](/00799/00801/index.md)
+
 
 # Hint 4
 The third valve is already on the wall, so let's get to work.
@@ -25,5 +25,3 @@ Place two of your valves on the first two locations on the upper row (first two 
 # Hint 8
 And place the other valve on the second from the left on the lower row.
 
-<!-- INTERNAL LINKS -->
-[801]: /00799/00801/index.md

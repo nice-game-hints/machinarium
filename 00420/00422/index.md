@@ -13,8 +13,8 @@ You're going to need to find a way to pull it over here.
 # Hint 4
 Perhaps some of the items you found inside the prison would be useful?
 
-# Hint 5
-[The Other Prison Cell][373]
+[The Other Prison Cell](/00373/index.md)
+
 
 # Hint 6
 You can combine items in your inventory, remember.
@@ -25,8 +25,8 @@ Combine the rope gun with the plunger and try to catch the pet robot with it fro
 # Hint 8
 No good? It looks like he's hiding behind that can. Perhaps we can lure him out into the open so that we can catch him unhindered.
 
-# Hint 9
-[How can I lure the pet out?][445]
+[How can I lure the pet out?](/00420/00422/00445/index.md)
+
 
 # Hint 10
 Once the pet is drinking the oil, use your plunger-gun again to catch him.
@@ -37,6 +37,3 @@ You can then just go and give him back to the owner.
 # Hint 12
 She will give you her umbrella in return, meaning you can pass the dripping water and go onto the next screen.
 
-<!-- INTERNAL LINKS -->
-[373]: /00373/index.md
-[445]: /00420/00422/00445/index.md

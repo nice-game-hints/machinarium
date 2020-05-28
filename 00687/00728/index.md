@@ -22,8 +22,8 @@ You can get it, if you could just find a way to distract the barkeeper.
 # Hint 7
 Didn't you find some fly paper in his bar? I bet he hates flies.
 
-# Hint 8
-[How can I reach the fly paper?][796]
+[How can I reach the fly paper?](/00774/00796/index.md)
+
 
 # Hint 9
 Collect some flies from the green vat outside (using the fly paper) then take them inside and sick 'em on the barkeeper.
@@ -31,5 +31,3 @@ Collect some flies from the green vat outside (using the fly paper) then take th
 # Hint 10
 In his flustered state, he won't notice you pulling the drum outside and giving it to the drummer.
 
-<!-- INTERNAL LINKS -->
-[796]: /00774/00796/index.md

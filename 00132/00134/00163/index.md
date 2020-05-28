@@ -22,11 +22,9 @@ You can now climb the stairs and extend your body to hook onto the pipe, and shi
 # Hint 7
 Now, use the chock with the tracks and pull the lever remotely to make a cart crash.
 
-# Hint 8
-[How can I pull the lever remotely?][148]
+[How can I pull the lever remotely?](/00132/00134/00148/index.md)
+
 
 # Hint 9
 You can then steal the wheels from the cart.
 
-<!-- INTERNAL LINKS -->
-[148]: /00132/00134/00148/index.md

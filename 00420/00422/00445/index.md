@@ -31,8 +31,8 @@ See that magnet at the top, next to the stairs?
 # Hint 10
 Push the crates under it, and then use the control panel at the top of the stairs to turn it on.
 
-# Hint 11
-[How can I solve the puzzle on the control panel?][472]
+[How can I solve the puzzle on the control panel?](/00420/00422/00445/00472/index.md)
+
 
 # Hint 12
 The magnet will now pull up one of the crates, meaning that you can push the other one back to the right screen where it began.
@@ -43,5 +43,3 @@ You can then climb it via the little mooring post next to it (to its right) and 
 # Hint 14
 Now, at the control panel, just send the buoy to the right edge and push the red oil-drop button to pump out some oil and attract the pet.
 
-<!-- INTERNAL LINKS -->
-[472]: /00420/00422/00445/00472/index.md

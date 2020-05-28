@@ -28,17 +28,18 @@ You'll need a cone, which is light blue in color, and a light for the top.
 # Hint 9
 The cone itself can be found easily -- there are some orange and white traffic cones right there. Grab one!
 
-# Hint 10
-[How can I get a light for the top of my hat?][103]
+[How can I make the cone light blue?](/00059/00061/00083/index.md)
 
-# Hint 11
-Combine the bulb and cone, and use it with yourself.
+
+[How can I get a light for the top of my hat?](/00059/00061/00103/index.md)
+
 
 # Hint 12
-You can now pull the pulley to call the guard, and he will let you across.
+Combine the bulb and cone, and use it with yourself.
 
 # Hint 13
+You can now pull the pulley to call the guard, and he will let you across.
+
+# Hint 14
 Unfortunately, you won't quite make it that far...
 
-<!-- INTERNAL LINKS -->
-[103]: /00059/00061/00103/index.md
