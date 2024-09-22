@@ -3,7 +3,7 @@ title: Disarming the bomb
 order: 30
 ---
 
-4 minutes and 30 seconds on the clock! Good luck!
+4 minutes and 30 seconds to save the city! Good luck!
 
 # What do I do?!
 Stay calm - this is just like the pipe puzzle. You need to follow each wire from top to bottom to see which letter it matches.

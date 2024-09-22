@@ -3,7 +3,7 @@ title: Saving your girlfriend
 order: 60
 ---
 
-You've got the lamps - now you just need to get down to the basement.
+You've got the lamps. Now you just need to get down to the basement.
 
 # What is the symbol?
 A very fancy star! Unlike the other drawing, though, the one you draw does need to be accurate.
@@ -15,13 +15,13 @@ It's not as difficult as it looks - you basically just need to draw a few triang
 ![fancy elevator second annotated solution](fancyelevator2.jpg)
 
 # What now?
-There isn't much to see here - except the huge hammer and tiny key behind some glass. ^[Smash the glass.]
+A huge hammer, and a tiny key behind some glass. Interesting. ^[Smash the glass with the hammer.]
 
 # Smash and grab!
 Key acquired! It doesn't work with the padlock, though, and you'll need to get it open to flush away the bullies for good. Have you found any other locks the key might work with?
 
 # Hmm...
-You won't need to go back up to the other floors - but might have luck in the elevator. ^[Use the key on the locked panel in the elevator.]
+You don't need to go back up to the other floors, but might have luck in the elevator regardless. ^[Use the key on the locked panel in the elevator.]
 
 # What now?
 Freeze-spray? Whatever you spray will become quite easy to smash.

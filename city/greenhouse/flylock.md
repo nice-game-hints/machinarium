@@ -3,7 +3,7 @@ title: Leaving the greenhouse
 order: 20
 ---
 
-Have you had seen the lock that's keeping you here? The design is quite unique.
+Have you seen the lock that's keeping you here? The design is quite unique.
 
 # Strange!
 Whoever owned this greenhouse clearly loved bugs and plants. Maybe they were researching them?
@@ -39,5 +39,5 @@ The greenhouse was locked with a strange butterfly mechanism.  Do either of the 
 Put slide deck 1 into the projector, then use the remote to look through its slides. One shows a butterfly with some spots you should copy into the lock.
 
 ## Show me the solution.
-When the dots seen below are all lit up, pull the lever to [open the door.](battery)
+When the dots seen below are all lit up, you can pull the lever to [open the door.](battery)
 ![greenhouse puzzle](greenhouse.jpg)

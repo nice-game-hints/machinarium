@@ -3,7 +3,7 @@ title: Getting some sunflower oil
 order: 10
 ---
 
-The wheelchair-bound robot has been waiting for that sunflower oil for *ages*!
+The wheelchair-bound robot has been waiting for some sunflower oil for *ages*!
 
 # What do I need?
 When you helped the band earlier, a local resident wasn't very happy about it. She even threw a few plant pots at you.

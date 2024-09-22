@@ -3,7 +3,7 @@ title: Crossing the bridge
 order: 10
 ---
 
-Maybe you can pull the rope and ask nicely?
+Maybe you can pull the rope to summon the guard and just ask him nicely?
 
 # Pretty please with oil on top?
 It seems you're just not the right kind of robot. A disguise might help with that.
@@ -24,7 +24,7 @@ Even at full height, you can't quite reach the bulb. Start climbing the rods in 
 It seems there isn't enough rods here to reach the top - but there aren't any laying around for you to use, either. ^[Try to make do with what you've got.]
 
 ## Help me out.
-Climb up a few rungs, then grab the rod beneath you and put it in the hole above your head. Repeat this a few times and keep climbing to reach the top, then make the robot grow to reach the bulb.
+Climb up a few rungs, then grab the rod beneath you and put it in the hole above your head. Repeat this a few times to reach the top, then stretch up to reach the bulb.
 
 # What now?
 Have another look at the guard - you've got the bulb, but does your hat actually look like his? ^[The colours are all wrong!]
@@ -33,10 +33,10 @@ Have another look at the guard - you've got the bulb, but does your hat actually
 Take the cone off if you're wearing it, then use it on the tub of paint.
 
 # Hmm...
-Close, but not quite the right colour - the guards' are a light blue, and yours is just white. You'll need to add some blue paint to the mixture.
+Close, but not quite the right colour - guard hats are a light blue, and yours is just white. You'll need to add some blue paint to the mixture.
 
 # Where will I find blue paint?
-You can't leave the area, so will need to search this place from top to bottom. ^[Have you searched underneath anything?]
+You can't leave this area, so will need to search this place from top to bottom. ^[Have you searched underneath anything?]
 
 ## Help me out.
 Keep interacting with the stack of cones, and you'll find some blue paint. Add it to the white paint, throw in your hat, and combine it with the bulb for the ultimate disguise. Just don't forget to put it on before you [call for the guard.](rockbottom)

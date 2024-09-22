@@ -17,4 +17,4 @@ The guard's pet-son-toy needed a battery that looked like this. Yours don't look
 The drawing almost makes it look like two batteries tied together, doesn't it? ^[Look for something that can tie your batteries together.]
 
 ## Help me out.
-Look at the ground where you helped the wheelchair-bound robot earlier; the bandage he left behind can be used to tie the batteries together, much to the [guard's delight.](fancyelevator)
+Look at the ground where you helped the wheelchair-bound robot earlier; the bandage he left behind can be used to tie the batteries together, much to the [guard's delight.](penthouse)

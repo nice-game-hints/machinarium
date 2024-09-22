@@ -3,10 +3,10 @@ title: The grid puzzles
 order: 10
 ---
 
-The wires on the floor lead toward a small panel on the wall.
+The wires on the floor connect to a small panel on the wall.
 
 # What do we have here?
-Six puzzles, broken into groups of three. The three on the left control the plant-growing beam, and three on the right control the projector.
+Six puzzles, in two groups of three. The three on the left control the plant-growing beam, and three on the right control the projector.
 
 # How do I solve them?
 Their challenge level varies, but you need to turn all of the spaces green without getting stuck. The first one is impossible to fail.

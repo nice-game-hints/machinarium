@@ -9,7 +9,7 @@ On the left side of this strange dome-room, you'll find a pair of the game's mos
 Move the green beads into the green area by moving the other beads out of their way. The two mazes have no effect on each other.
 
 # Any tips?
-Pay close attention to the number of beads you're moving and amount of space you're moving them into - and know that it's impossible to get stuck, even if it feels like you've run out of moves.
+Pay close attention to the number of beads you're moving; space is limited, to but it's impossible to get stuck, even if it feels like you've run out of moves.
 
 ## Give me the solutions.
 Load your manual save to return the beads to their starting points, then follow the diagrams below. 

@@ -3,12 +3,12 @@ title: Getting a plunger-gun
 order: 10
 ---
 
-The dog is in plain view near the building you emerged from. Clicking it gives our protagonist the idea to grab it with a plunger-gun.
+The dog you're looking for is in plain view near the building you just exited. Click the dog, and our protagonist will get the idea to grab it with a plunger-gun.
 
 # Where will I find one?
-The criminal gang we've been dealing with seems to have all kinds of gadgets. Maybe they have a plunger-gun in storage?
+The criminal gang we've been dealing with seems to have all kinds of gadgets. They probably have a spare gun in their storage area.
 
-# What kind of storage?
+# Storage area? Where?
 While escaping the jail earlier, you got a broom from a storage room near the cells. That might be a good place to start.
 
 # Locked!
@@ -36,7 +36,7 @@ Keep these things in mind:
 * The red dots will end up side-by-side
 
 ## Help me out.
-The game randomises this puzzle when you leave and re-enter the cell, making it difficult to give a specific tips. If you're stumped, it may be worth attempting another layout.
+The game randomises this puzzle when you leave and re-enter the cell, making it difficult to give specific tips. If you're stumped, it may be worth attempting another layout.
 
 # Gun acquired!
 Nice! That's just a regular gun, though. For a plunger, you'll might need to look around rooms that have toilets in them.

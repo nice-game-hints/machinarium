@@ -3,7 +3,7 @@ title: Fixing the pipes
 order: 30
 ---
 
-The big tank is empty, but you'll need to switch off the water if you want to progress.
+The big tank has been emptied, but you'll need to switch off the water if you want to progress.
 
 # How do I do that?
 There's a staggering number of pipes near the tank. You'll need to put three wrenches in very strategic spots to switch off the fountain, however.
@@ -15,10 +15,10 @@ You got one for [emptying the tank](radio), and one is already holding a pipe sh
 Open the cabinet that you put the radio on, then search through the maintenance booklet. You'll find the third wrench on the last page.
 
 # What now?
-They're a mess to look at, but only one of these pipes is feeding water to the fountain - the third one along, with a small arrow on it. You'll need to use all three wrenches to cut off its flow, though.
+They're a mess to look at, but only one of these pipes is feeding water to the fountain - the third one along, with a small arrow on it. You'll need to use all three wrenches to cut off its flow.
 
 # Help me get my head around this puzzle.
-In the screenshot below, I've coloured-coded each pipe path - the blue path is the one you need to block.
+In the screenshot below, I've coloured-coded each pipe path. White is the 'main' supply, and I've given different colours to different 'paths' that should make it easier to figure out which valves they're connected to.
 ![colour coded pipe puzzle](pipes1.jpg)
 
 # Another hint?

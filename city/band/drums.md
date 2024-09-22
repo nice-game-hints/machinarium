@@ -18,13 +18,13 @@ Visit the bar with a big neon sign near the band. Inside, you'll find a nice, em
 You'll need to distract the bartender, so watch him closely to get some ideas.
 
 ## What do I do?
-Every so often, the bartender finds a fly and looks around nervously. Letting a bunch of flies loose would really ruin his day - and let you steal the barrel.
+Every so often, the bartender finds a fly and looks around nervously. Letting a bunch of flies loose would really ruin his day - and while he's dealing with them, you could steal the barrel.
 
 # Where will I find flies?
-Tons of flies are buzzing around a nasty-looking vat outside the bar. You'll need to find something sticky to collect a few, though.
+Tons of flies are buzzing around a nasty-looking vat outside the bar. You'll need to find something sticky to collect a few of them, though.
 
 # Something sticky?
 Sticky traps are a great way to deal with flies. ^[The bartender's clearly having trouble with them - maybe he's deployed countermeasures?]
 
 ## Help me out.
-Head back inside the bar, then grow in size to take the sticky trap hanging from the shelf. You can then use it to collect a few flies, set them loose in the bar, and 'borrow' the barrel while the bartender is distracted.
+Head back inside the bar, then stretch to reach the sticky trap hanging from the shelf. You can use it to collect a few flies, set them loose in the bar, and click the barrel to 'borrow' it while the bartender is distracted.

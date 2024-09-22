@@ -3,7 +3,7 @@ title: Getting your body and head back
 order: 10
 ---
 
-Let's hope it still works.
+Let's hope everything still works.
 
 # What do I do?
 It's easy to miss, but the game encourages you to start by clicking on the bathtub - twice.

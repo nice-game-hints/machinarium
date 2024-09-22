@@ -9,10 +9,10 @@ Only enough fuel for one trip? Not a very useful elevator!
 There's not much to see out here, so you might want to try peeking through the window.
 
 # Oh!
-Hey, that's your girlfriend! Maybe she can help you borrow some fuel from the dispenser on the left?
+Hey, that's your girlfriend Berta! Maybe she can help you borrow some fuel from the dispenser in here?
 
 # What do I need?
-A hose would be useful! There seems to be something hose-like in the air conditioner above Berta, but it's just out of reach.
+A hose would be useful! There seems to be something hose-like in the air conditioner on the ceiling, but it's just out of reach.
 
 # Hmm...
 There's not much in the kitchen, but look at the wall above the elevator - a long pole is stuck to a pipe coming out of the kitchen.
@@ -30,13 +30,13 @@ Put the pot on the floor, then throw the corn onto the heat. The pole will be kn
 You can hop onto the pot for a height boost, and the pole will do the rest. Get that air conditioner open!
 
 # Hmm...
-Just out of reach. You might need to knock that hose loose. ^[You've still got the pole.]
+Open, but its insides are just out of reach. You might need to knock that hose loose. ^[You've still got the pole.]
 
 # What now?
 The hose should do the job, but it's frozen solid. Can you fix that?
 
 ## Help me out.
-Put the pot back on the heat, then add the hose to thaw it out.
+Put the pot back on the heat, then add the hose to thaw it out. Tasty...?
 
 # What now?
 The hose is ready to transport oil - hook it up to the oil dispenser and you're [good to go!](fixlift)

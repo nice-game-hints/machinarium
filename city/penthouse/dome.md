@@ -12,16 +12,19 @@ The helicopter on the roof would be the perfect exit vehicle, but the ladder to 
 '7.0: 108'. You'll need to find a place where you can input those numbers. ^[It seems to be a frequency for a radio.]
 
 ## Tell me what to do.
-Head back inside the dome, and look at the radio machine on the left side of the room. You can use the left dial to select '108' and right dial to select '7'.W
+Head back inside the dome, and look at the radio machine on the left side of the room. You can use the left dial to select '108' and right dial to select '7'.
 
 # What now?
 The radio has started playing a very specific tune - and the panel on the side of the dome wants you to repeat it. Hope you've got a good ear for musical notes!
 
 # Nudge me in the right direction.
-From left to right, the first few notes are:
+From left to right, the first four notes are:
 * 1
 * 4
 * 2
+* 3
+
+There are three more notes to play in the sequence.
 
 ## Give me the solution.
 * 1

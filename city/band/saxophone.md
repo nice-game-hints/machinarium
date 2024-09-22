@@ -15,7 +15,7 @@ You need to connect five bolts in a row - diagonally, horizontally, or verticall
 Every time you start the mini-game, your opponent goes first - and usually starts in a different spot. If you've never played Gomoku, it may be worth 'mirroring' your opponent's moves to get an idea for how this all works.
 
 ## How do I win?
-Annoyingly, nobody has a sure-fire strategy - and the AI seems to favour different tactics depending on the platform you're playing on. There is hope, however.
+Annoyingly, there's no perfect strategy - and the AI seems to favour different tactics depending on the platform you're playing on. There is hope, however.
 * Visit this website: http://www.javascripter.net/games/xo/xo.htm
 * Set the board size to 10x10
 * Put the robot's moves into the website, then copy the website's moves into the game.
@@ -25,7 +25,7 @@ Annoyingly, nobody has a sure-fire strategy - and the AI seems to favour differe
 This won't *guarantee* victory, but has a pretty decent success rate.
 
 ## I WON!
-Congratulations! Pick up the various nuts and bolts, then bring them to the saxophonist. If you're struggling to scoop them all up, they are:
+Congratulations! Pick up the five nuts and bolts, then bring them to the saxophonist. If you're struggling to scoop them all up, they are:
 * On top of the door's porthole
 * Under your stool
 * On the floor near the table
