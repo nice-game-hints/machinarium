@@ -36,7 +36,7 @@ Just out of reach. You might need to knock that hose loose. ^[You've still got t
 The hose should do the job, but it's frozen solid. Can you fix that?
 
 ## Help me out.
-Put the pot back on the heat, then add the hose to thaw it out. 
+Put the pot back on the heat, then add the hose to thaw it out.
 
 # What now?
 The hose is ready to transport oil - hook it up to the oil dispenser and you're [good to go!](fixlift)

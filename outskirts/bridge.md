@@ -36,7 +36,7 @@ Take the cone off if you're wearing it, then use it on the tub of paint.
 Close, but not quite the right colour - the guards' are a light blue, and yours is just white. You'll need to add some blue paint to the mixture.
 
 # Where will I find blue paint?
-You can't leave the area, so will need to search this place from top to bottom. ^[Have you searched underneath anything?] 
+You can't leave the area, so will need to search this place from top to bottom. ^[Have you searched underneath anything?]
 
 ## Help me out.
 Keep interacting with the stack of cones, and you'll find some blue paint. Add it to the white paint, throw in your hat, and combine it with the bulb for the ultimate disguise. Just don't forget to put it on before you [call for the guard.](rockbottom)

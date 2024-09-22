@@ -3,7 +3,7 @@ title: The grid puzzles
 order: 10
 ---
 
-The wires on the floor will take you to a small panel on the wall. 
+The wires on the floor lead toward a small panel on the wall.
 
 # What do we have here?
 Six puzzles, broken into groups of three. The three on the left control the plant-growing beam, and three on the right control the projector.
@@ -94,4 +94,4 @@ Start in the second block along on the third row down, then follow this order:
 * Down
 
 # Hooray!
-Don't forget to press the buttons at the bottom to activate the beam and projector!
+Don't forget to press the buttons at the bottom to activate the beam and [projector!](projector)

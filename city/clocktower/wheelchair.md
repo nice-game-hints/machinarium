@@ -18,4 +18,4 @@ If you found the bridge, you might be able to scoop up the oil. ^[It had a blue-
 Return to the area where the band are playing, then go through the gateway next to them. You can then use the can to gather some oil, and bring it back to the wheelchair-bound robot.
 
 # What now?
-That got him moving! He wants a different kind of oil, but you can worry about that later. Why not check out the [now-accessible grate?](radio)
+That got him moving! He wants a different kind of oil, so you should take his can but can worry about filling it later. For now, why not check out the [now-accessible grate?](radio)

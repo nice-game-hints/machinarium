@@ -6,7 +6,7 @@ order: 20
 The [plunger-gun](plunger) will bring the dog to this side of the water, but he's hiding out of sight Maybe you could lure him out with some oil?
 
 # What should I do?
-There's an oil tank in the middle of the water, and a radar dish above your head is pointed right at it.  
+There's an oil tank in the middle of the water, and a radar dish above your head is pointed right at it.
 
 # How does that help me?
 I'll bet it's a control room! You might be able to climb onto a crate to reach that ladder, but two crates? No way.
@@ -21,7 +21,7 @@ After pushing the crates into the area with the umbrella lady, they'll end up ri
 A closer look at the panel near the stairs reveals the problem - these arrows are all in the wrong position! The 'up' arrows need to be at the top, and down arrows need to be at the bottom.
 
 # Hmm...
-The arrows can move through each other, but only if there's a spot free on the other side - and you can only 'undo' your most recent move. 
+The arrows can move through each other, but only if there's a spot free on the other side - and you can only 'undo' your most recent move.
 
 # Can I get a nudge?
 Certainly - press the red button to reset the puzzle, then start like this:

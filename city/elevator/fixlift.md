@@ -20,11 +20,8 @@ From their starting points, each peg only needs to move four times before the pu
 ]
 
 ## Help me out.
-The screenshots below show each peg's path - they often need to be moved out of each others' way, so don't worry if a move doesn't work immediately.
-![annotated elevator puzzle](elevator1.jpg)
-![annotated elevator puzzle](elevator2.jpg)
-![annotated elevator puzzle](elevator3.jpg)
-![annotated elevator puzzle](elevator4.jpg)
+The screenshot below shows the four moves that each peg must make - they often need to be moved out of each others' way, so don't worry if a move doesn't work immediately.
+![annotated elevator puzzle](elevator5.jpg)
 
 # What now?
 When the red pegs are on top and black pegs are on the bottom, a lever will pop out. Pull it up and you'll be [on the move!](fan)

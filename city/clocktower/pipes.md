@@ -21,7 +21,6 @@ They're a mess to look at, but only one of these pipes is feeding water to the f
 In the screenshot below, I've coloured-coded each pipe path - the blue path is the one you need to block.
 ![colour coded pipe puzzle](pipes1.jpg)
 
-
 # Another hint?
 In this screenshot, I've shown five spots where you shouldn't place your wrenches (red) and six spots  where you could. Look closely at where each line stops and starts - can you cut off the green flow early?
 ![colour coded pipe puzzle with extra detail](pipes2.jpg)

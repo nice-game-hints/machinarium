@@ -1,5 +1,5 @@
 ---
-title: Inside the City
+title: Inside the city
 order: 30
 ---
 

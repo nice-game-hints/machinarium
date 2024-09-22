@@ -24,7 +24,7 @@ Look around for controls; you'll probably find them near the door.
 While standing near the door, shrink the robot down. You'll then be able to interact with a panel that can move the metal rod.
 
 # Hmm...
-Your goal here is to move the metal rod down so that it's *just* low enough to grab while in your tall form. The closer it is to the top of the stairs, the better. 
+Your goal here is to move the metal rod down so that it's *just* low enough to grab while in your tall form. The closer it is to the top of the stairs, the better.
 
 # How does the panel work?
 The leftmost hole is 1, one to its right is 2, and so on. 'A' seems to be the highest row, too, and pressing the red button moves the metal rod into its new position.
