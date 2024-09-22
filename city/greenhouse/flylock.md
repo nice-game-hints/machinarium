@@ -30,7 +30,7 @@ The flytrap is open, but apparently still hungry. You'll need to find something 
 Grab the stick that's holding up the plant, then use it on the flytrap.
 
 # What now?
-The magnifying glass can be used on the projector to get it working, and the remote can be used to look through the slides. 
+The magnifying glass can be used on the projector to get it working, and the remote can be used to look through the slides.
 
 # What am I looking for?
 The greenhouse was locked with a strange butterfly mechanism.  Do either of the slide decks have a focus on insects and bugs?

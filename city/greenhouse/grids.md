@@ -94,4 +94,4 @@ Start in the second block along on the third row down, then follow this order:
 * Down
 
 # Hooray!
-Don't forget to press the buttons at the bottom to activate the beam and [projector!](projector)
+Don't forget to press the buttons at the bottom to activate the beam and [projector!](flylock)
